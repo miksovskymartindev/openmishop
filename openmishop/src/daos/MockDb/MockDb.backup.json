@@ -1,0 +1,144 @@
+{
+  "products": [
+    {
+      "id":1,
+      "name":"Test Product",
+      "shortDescription":"Short description of Test Product",
+      "description":"Long description of Test Product Long description of Test Product Long description of Test Product Long description of Test Product Long description of Test Product Long description of Test Product Long description of Test Product Long description of Test Product",
+      "images":[
+         "https://scontent-prg1-1.xx.fbcdn.net/v/t1.15752-9/89833591_228502251606012_8627280810107469824_n.jpg?_nc_cat=103&_nc_sid=b96e70&_nc_oc=AQmdFozE4-Y_qAUKRvS7S0JSrKSTT0son8yVN6tOV96U03UEKlQz7gxO-Hl2h7twHdqACjo5gufDIWuIJYWmEIo1&_nc_ht=scontent-prg1-1.xx&oh=5085baeff3603a66677c2eb086aa009c&oe=5E9432D7",
+         "https://scontent-prg1-1.xx.fbcdn.net/v/t1.15752-9/89920840_670532723756253_8588090457597149184_n.png?_nc_cat=109&_nc_sid=b96e70&_nc_oc=AQliSwhFSu6tlfRA9OkvmxsUCYZShW6FeOSS9OYqgM0mhczWPBxR84jbL229kbJOgnssLBJgdS16fncbDMxCjB6F&_nc_ht=scontent-prg1-1.xx&oh=f22091b69f48e27b5795b9b151c46776&oe=5E943710"
+      ],
+      "categoryID":1,
+      "variationTypes":[
+         {
+            "typeName":"color",
+            "images":[
+               "https://scontent-prg1-1.xx.fbcdn.net/v/t1.15752-9/89920840_670532723756253_8588090457597149184_n.png?_nc_cat=109&_nc_sid=b96e70&_nc_oc=AQliSwhFSu6tlfRA9OkvmxsUCYZShW6FeOSS9OYqgM0mhczWPBxR84jbL229kbJOgnssLBJgdS16fncbDMxCjB6F&_nc_ht=scontent-prg1-1.xx&oh=f22091b69f48e27b5795b9b151c46776&oe=5E943710",
+               "https://scontent-prg1-1.xx.fbcdn.net/v/t1.15752-9/89920840_670532723756253_8588090457597149184_n.png?_nc_cat=109&_nc_sid=b96e70&_nc_oc=AQliSwhFSu6tlfRA9OkvmxsUCYZShW6FeOSS9OYqgM0mhczWPBxR84jbL229kbJOgnssLBJgdS16fncbDMxCjB6F&_nc_ht=scontent-prg1-1.xx&oh=f22091b69f48e27b5795b9b151c46776&oe=5E943710"
+            ],
+            "variations":[
+               {
+                  "variationName":"red",
+                  "description":"This product is red.",
+                  "images":[
+                     "https://d32-a.sdn.cz/d_32/c_static_F_D/B62Byo/media/img/dogs/krasty_12.png",
+                     "https://d32-a.sdn.cz/d_32/c_static_F_D/B62Byo/media/img/logo_v2.svg"
+                  ],
+                  "addFixedPrice":20,
+                  "multiplyPrice":3
+               },
+               {
+                  "variationName":"blue",
+                  "description":"This product is blue.",
+                  "images":[
+                     "https://d32-a.sdn.cz/d_32/c_static_F_D/B62Byo/media/img/dogs/krasty_12.png",
+                     "https://d32-a.sdn.cz/d_32/c_static_F_D/B62Byo/media/img/logo_v2.svg"
+                  ],
+                  "addFixedPrice":50,
+                  "multiplyPrice":10
+               },
+               {
+                  "variationName":"green",
+                  "description":"This product is green.",
+                  "images":[
+                     "https://d32-a.sdn.cz/d_32/c_static_F_D/B62Byo/media/img/dogs/krasty_12.png",
+                     "https://d32-a.sdn.cz/d_32/c_static_F_D/B62Byo/media/img/logo_v2.svg"
+                  ],
+                  "addFixedPrice":100,
+                  "multiplyPrice":20
+               }
+            ],
+            "addFixedPrice":10,
+            "multiplyPrice":2
+         }
+      ],
+      "price":10.99,
+      "rating":10,
+      "inStock":2,
+      "expeditionTime":3,
+      "discount":10,
+      "taxID":2,
+      "productCode":"DUMMY-1-A",
+      "stockCode":"A-B-123",
+      "weight":100,
+      "size":{
+         "x":20,
+         "y":20,
+         "z":50
+      },
+      "updatedAt":"Sun, 15 Mar 2020 20:00:23 GMT",
+      "createdAt":"Sun, 15 Mar 2020 20:00:23 GMT"
+   },
+    {
+      "id":2,
+      "name":"Test Product 2",
+      "shortDescription":"Short description of Test Product 2",
+      "description":"Long description of Test Product Long description of Test Product Long description of Test Product Long description of Test Product Long description of Test Product Long description of Test Product Long description of Test Product Long description of Test Product",
+      "images":[
+         "https://scontent-prg1-1.xx.fbcdn.net/v/t1.15752-9/89833591_228502251606012_8627280810107469824_n.jpg?_nc_cat=103&_nc_sid=b96e70&_nc_oc=AQmdFozE4-Y_qAUKRvS7S0JSrKSTT0son8yVN6tOV96U03UEKlQz7gxO-Hl2h7twHdqACjo5gufDIWuIJYWmEIo1&_nc_ht=scontent-prg1-1.xx&oh=5085baeff3603a66677c2eb086aa009c&oe=5E9432D7",
+         "https://scontent-prg1-1.xx.fbcdn.net/v/t1.15752-9/89920840_670532723756253_8588090457597149184_n.png?_nc_cat=109&_nc_sid=b96e70&_nc_oc=AQliSwhFSu6tlfRA9OkvmxsUCYZShW6FeOSS9OYqgM0mhczWPBxR84jbL229kbJOgnssLBJgdS16fncbDMxCjB6F&_nc_ht=scontent-prg1-1.xx&oh=f22091b69f48e27b5795b9b151c46776&oe=5E943710"
+      ],
+      "categoryID":1,
+      "variationTypes":[
+         {
+            "typeName":"material",
+            "images":[
+               "https://scontent-prg1-1.xx.fbcdn.net/v/t1.15752-9/89920840_670532723756253_8588090457597149184_n.png?_nc_cat=109&_nc_sid=b96e70&_nc_oc=AQliSwhFSu6tlfRA9OkvmxsUCYZShW6FeOSS9OYqgM0mhczWPBxR84jbL229kbJOgnssLBJgdS16fncbDMxCjB6F&_nc_ht=scontent-prg1-1.xx&oh=f22091b69f48e27b5795b9b151c46776&oe=5E943710",
+               "https://scontent-prg1-1.xx.fbcdn.net/v/t1.15752-9/89920840_670532723756253_8588090457597149184_n.png?_nc_cat=109&_nc_sid=b96e70&_nc_oc=AQliSwhFSu6tlfRA9OkvmxsUCYZShW6FeOSS9OYqgM0mhczWPBxR84jbL229kbJOgnssLBJgdS16fncbDMxCjB6F&_nc_ht=scontent-prg1-1.xx&oh=f22091b69f48e27b5795b9b151c46776&oe=5E943710"
+            ],
+            "variations":[
+               {
+                  "variationName":"amelinum",
+                  "description":"This product is made from amelinum. To nepomaluješ",
+                  "images":[
+                     "https://d32-a.sdn.cz/d_32/c_static_F_D/B62Byo/media/img/dogs/krasty_12.png",
+                     "https://d32-a.sdn.cz/d_32/c_static_F_D/B62Byo/media/img/logo_v2.svg"
+                  ],
+                  "addFixedPrice":20,
+                  "multiplyPrice":3
+               },
+               {
+                  "variationName":"metal",
+                  "description":"This product is made from metal.",
+                  "images":[
+                     "https://d32-a.sdn.cz/d_32/c_static_F_D/B62Byo/media/img/dogs/krasty_12.png",
+                     "https://d32-a.sdn.cz/d_32/c_static_F_D/B62Byo/media/img/logo_v2.svg"
+                  ],
+                  "addFixedPrice":50,
+                  "multiplyPrice":10
+               },
+               {
+                  "variationName":"wood",
+                  "description":"This product is made from wood.",
+                  "images":[
+                     "https://d32-a.sdn.cz/d_32/c_static_F_D/B62Byo/media/img/dogs/krasty_12.png",
+                     "https://d32-a.sdn.cz/d_32/c_static_F_D/B62Byo/media/img/logo_v2.svg"
+                  ],
+                  "addFixedPrice":100,
+                  "multiplyPrice":20
+               }
+            ],
+            "addFixedPrice":10,
+            "multiplyPrice":2
+         }
+      ],
+      "price":15.99,
+      "rating":15,
+      "inStock":3,
+      "expeditionTime":4,
+      "discount":20,
+      "taxID":1,
+      "productCode":"DUMMY-2-A",
+      "stockCode":"A-B-124",
+      "weight":80,
+      "size":{
+         "x":120,
+         "y":120,
+         "z":150
+      },
+      "updatedAt":"Sun, 15 Mar 2020 20:05:29 GMT",
+      "createdAt":"Sun, 15 Mar 2020 20:05:29 GMT"
+    }
+  ]
+}
